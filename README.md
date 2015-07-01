@@ -1,6 +1,6 @@
 # ACF Divider Field
 
-Show a divider between field groups.
+An divider field that lets you group multiple fields under an divider.
 
 ![Preview](divider.png)
 
